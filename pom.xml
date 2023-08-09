@@ -26,7 +26,7 @@
 
         <!-- AZURE FUNCTION CONFIG -->
         <azure.functions.maven.plugin.version>1.26.0</azure.functions.maven.plugin.version>
-        <functionAppName>exist-handson-0726</functionAppName>
+        <functionAppName>exist-black-070406</functionAppName>
         <functionAppRegion>southeastasia</functionAppRegion>
         <functionResourceGroup>handson</functionResourceGroup>
         <functionAppServicePlanName>asp-exist-handson-0726</functionAppServicePlanName>
